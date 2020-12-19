@@ -1,0 +1,20 @@
+{
+  "name": "float-mask",
+  "version": "1.0.0",
+  "description": "YNAB-style input formatter for float values (like prices!)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "YNAB",
+    "price-mask",
+    "float-mask",
+    "input",
+    "reverse",
+    "price",
+    "mask"
+  ],
+  "author": "Tom McIntosh",
+  "license": "MIT"
+}
