@@ -1,11 +1,18 @@
 # float-mask 
-![](./rnvs.png)
+
 
 ![licence](https://img.shields.io/npm/l/react-native-version-setter?style=flat-square)
-![NPM Version](https://img.shields.io/npm/v/react-native-version-setter?style=flat-square)
+![NPM Version](https://img.shields.io/npm/v/float-mask?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-gree?&style=flat-square)
 
-YNAB-style input formatter for float values (like prices!)
+![Demo GIF](https://media.giphy.com/media/Su1oMIey7OnniABbOx/giphy.gif)
+
+[Try it out](https://codesandbox.io/s/m316q)
+
+`floatMask` is an input formatter for float values (like prices!), inspired by the price inputs in [YNAB](www.youneedabudget.com) apps.
+
+
+
 
 Just define your _input format_, and `floatMask` will enter digits right to left, ensuring the output is in the right shape.
 
@@ -60,3 +67,12 @@ const MyForm = () => {
 }
 
 ```
+
+## 💻 Compatibility
+
+`floatMask` is platform agnostic and pure JavaScript. As a result, there's a few tasks which are left up the implementor.
+
+In most cases you should:
+- Restrict what characters are allowed
+- Force the cursor to stay at the end of the input
+

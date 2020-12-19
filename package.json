@@ -1,6 +1,6 @@
 {
   "name": "float-mask",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "YNAB-style input formatter for float values (like prices!)",
   "main": "index.js",
   "scripts": {
