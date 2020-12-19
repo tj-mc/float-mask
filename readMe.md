@@ -1,9 +1,7 @@
 # float-mask 
 
 
-![licence](https://img.shields.io/npm/l/react-native-version-setter?style=flat-square)
-![NPM Version](https://img.shields.io/npm/v/float-mask?style=flat-square)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-gree?&style=flat-square)
+![Size](https://img.shields.io/bundlephobia/min/float-mask?style=flat-square)
 
 ![Demo GIF](https://media.giphy.com/media/Su1oMIey7OnniABbOx/giphy.gif)
 
